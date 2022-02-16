@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 13d68a73-247e-5223-26c6-a5506c2e8176
 ---
@@ -133,7 +136,7 @@ Pyroxene thermometry II, the quad
 8-9
 {{< tdclose >}}
 {{< tdopen >}}
-Spinels, rhombohedral oxides and T-ƒO2 relations
+Spinels, rhombohedral oxides and T-ƒO{{< sub "2" >}} relations
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -277,7 +280,7 @@ Thermodynamic models of multicomponent systems - MELTS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Mixed volatile equilibria P-T-XCO2\-XH2O
+Mixed volatile equilibria P-T-X{{< sub "CO2" >}}\-X{{< sub "H2O" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-480-thermodynamics-for-geoscientists-fall-2006/02fc7f4dc35ba25f0e94834522052175_problem_set_1.pdf
+file: /media/courses/12-480-thermodynamics-for-geoscientists-fall-2006/02fc7f4dc35ba25f0e94834522052175_problem_set_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set_1.pdf
 uid: 02fc7f4d-c35b-a25f-0e94-834522052175

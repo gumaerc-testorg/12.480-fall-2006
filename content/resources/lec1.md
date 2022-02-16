@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on free energy of a solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-480-thermodynamics-for-geoscientists-fall-2006/ece0c3f157437de6f52b1fa186cea566_lec1.pdf
+file: /media/courses/12-480-thermodynamics-for-geoscientists-fall-2006/ece0c3f157437de6f52b1fa186cea566_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: ece0c3f1-5743-7de6-f52b-1fa186cea566

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout with a brief review of the thermodynamics of solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-480-thermodynamics-for-geoscientists-fall-2006/3e69e18a2a92748b1e0da26f4cce8082_handout_1_06.pdf
+file: /media/courses/12-480-thermodynamics-for-geoscientists-fall-2006/3e69e18a2a92748b1e0da26f4cce8082_handout_1_06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: handout_1_06.pdf
 uid: 3e69e18a-2a92-748b-1e0d-a26f4cce8082
