@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of readings on solution formulations for
+  non-ideal systems and application of solution formulations to mineral systems.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

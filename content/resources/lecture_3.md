@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout contains the reading assignment and a summary of the lecture.
-file: /media/courses/12-480-thermodynamics-for-geoscientists-fall-2006/29f6310ccfe7aaeac1063949ad803b0f_lecture_3.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/29f6310ccfe7aaeac1063949ad803b0f_lecture_3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lecture_3.pdf
 uid: 29f6310c-cfe7-aaea-c106-3949ad803b0f
 ---
+Handout contains the reading assignment and a summary of the lecture.
+
