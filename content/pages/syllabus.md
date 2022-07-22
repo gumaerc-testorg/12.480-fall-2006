@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about recommended texts, other useful texts, and the schedule of lecture topics
+  and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fde08789-0797-2a22-26a7-3c3a2b53cb45
 ---
@@ -150,7 +155,7 @@ Pyroxene thermometry II, the quad
 8-9
 {{< tdclose >}}
 {{< tdopen >}}
-Spinels, rhombohedral oxides and T-ƒO2 relations
+Spinels, rhombohedral oxides and T-ƒO{{< sub "2" >}} relations
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 1 due
@@ -288,7 +293,7 @@ Thermodynamic models of multicomponent systems - MELTS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Mixed volatile equilibria P-T-XCO2\-XH2O
+Mixed volatile equilibria P-T-X{{< sub "CO2" >}}\-X{{< sub "H2O" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  
