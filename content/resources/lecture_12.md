@@ -5,6 +5,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/e320a0316b1168a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_12.pdf
 uid: e320a031-6b11-68ae-3ae4-741435cd266b
 ---
 Lecture notes on liquidus diagrams - degeneracies and natural examples.
-

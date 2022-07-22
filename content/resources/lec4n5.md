@@ -7,6 +7,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/de74f1be309197a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec4n5.pdf
 uid: de74f1be-3091-97a3-1f19-49aa13f8e1ba
 ---
 Lecture notes on alkali and plagioclase feldspars solution models, simple (ideal) ternary solution, symmetrical ternary, asymmetrical ternary, ternary solutions, and unmixing mechanisms for non-ideal solutions.
-

@@ -5,6 +5,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/344618ca8095aad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/eed2cd9566384b1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_15.pdf
 uid: eed2cd95-6638-4b1a-91aa-10ccac9ae4e9
 ---
 Lecture notes on choosing components - representations of composition space.
-

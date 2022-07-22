@@ -6,6 +6,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/223618c91c5acd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_10.pdf
 uid: 223618c9-1c5a-cd1f-0256-b5f949f3150a
 ---
 Lecture notes on heterogeneous equilibria in two - and three-component systems and natural examples of degenerate reactions in two-component systems.
-

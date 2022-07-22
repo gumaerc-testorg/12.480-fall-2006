@@ -5,6 +5,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/91d6fb1db8da167
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout_2a_06.pdf
 uid: 91d6fb1d-b8da-167f-7ae8-6c1efbeed1db
 ---
 Lecture handout on non-ideal solutions.
-

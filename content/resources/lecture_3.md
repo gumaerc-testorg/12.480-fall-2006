@@ -5,6 +5,7 @@ file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/29f6310ccfe7aae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_3.pdf
 uid: 29f6310c-cfe7-aaea-c106-3949ad803b0f
 ---
 Handout contains the reading assignment and a summary of the lecture.
-
