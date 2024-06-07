@@ -3,6 +3,7 @@ content_type: resource
 description: Hand-written lecture notes on silicate melts, the Tempkin model, Toop
   and Samis model, and Massons polymer model.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/565b2418fba13456c033487d3956d66e_lec_15_addition.pdf
+file_size: 249709
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

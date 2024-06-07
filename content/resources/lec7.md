@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on effects of ordering species on sites in a crystalline
   solution and pyroxene thermometry.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/4288360a827d67948e75edb8c2cde030_lec7.pdf
+file_size: 404970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
