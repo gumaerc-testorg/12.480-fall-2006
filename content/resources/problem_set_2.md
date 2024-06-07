@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem set.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/12d4bb3dd01d98e507a9a63cb4219cbe_problem_set_2.pdf
+file_size: 178298
 file_type: application/pdf
 learning_resource_types:
 - Assignments

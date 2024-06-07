@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture handout on non-ideal solutions.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/91d6fb1db8da167f7ae86c1efbeed1db_handout_2a_06.pdf
+file_size: 122594
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
