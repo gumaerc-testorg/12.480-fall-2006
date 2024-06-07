@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture handout with information two feldspar themometry-barometry and
   readings.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/e21b46c6d8a8eeb736feb88ae0a6a2b8_lec3.pdf
+file_size: 236508
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

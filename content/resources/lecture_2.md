@@ -2,6 +2,7 @@
 content_type: resource
 description: Handout contains the reading assignment and a summary of the lecture.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/7f8d89905b2124ea993d74fe330bfeed_lecture_2.pdf
+file_size: 133181
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
