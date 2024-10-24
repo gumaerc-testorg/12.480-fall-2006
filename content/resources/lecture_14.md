@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Schreinemaker's analysis - multi-component systems.
-file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/1a187f01113e24f0cf47853415f35be9_lecture_14.pdf
+file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/1a187f01113e24f0cf47853415f35be9_lecture_14.pdf
 file_size: 436220
 file_type: application/pdf
 learning_resource_types:
