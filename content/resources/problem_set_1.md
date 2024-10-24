@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/02fc7f4dc35ba25f0e94834522052175_problem_set_1.pdf
+file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/02fc7f4dc35ba25f0e94834522052175_problem_set_1.pdf
 file_size: 22261
 file_type: application/pdf
 learning_resource_types:
