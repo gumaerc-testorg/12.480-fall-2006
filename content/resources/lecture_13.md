@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on liquidus diagrams - thermodynamic controls on boundaries.
-file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/a2811623619066dd8d0801e6f6ce849e_lecture_13.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/a2811623619066dd8d0801e6f6ce849e_lecture_13.pdf
 file_size: 250845
 file_type: application/pdf
 learning_resource_types:

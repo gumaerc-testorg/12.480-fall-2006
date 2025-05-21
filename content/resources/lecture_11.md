@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on liquidus diagrams and liquidus boundaries.
-file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/5d8f04346f6c49a823cb949ba469f319_lecture_11.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/5d8f04346f6c49a823cb949ba469f319_lecture_11.pdf
 file_size: 188287
 file_type: application/pdf
 learning_resource_types:

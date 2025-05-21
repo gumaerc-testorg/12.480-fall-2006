@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hand-written lecture notes.
-file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/13c824ee9cedb1353980ddf7a63f5ddf_lecture_7.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/13c824ee9cedb1353980ddf7a63f5ddf_lecture_7.pdf
 file_size: 152851
 file_type: application/pdf
 learning_resource_types:
