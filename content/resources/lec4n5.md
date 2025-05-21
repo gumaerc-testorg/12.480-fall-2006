@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on alkali and plagioclase feldspars solution models, simple
   (ideal) ternary solution, symmetrical ternary, asymmetrical ternary, ternary solutions,
   and unmixing mechanisms for non-ideal solutions.
-file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/de74f1be309197a31f1949aa13f8e1ba_lec4n5.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/de74f1be309197a31f1949aa13f8e1ba_lec4n5.pdf
 file_size: 1053810
 file_type: application/pdf
 learning_resource_types:

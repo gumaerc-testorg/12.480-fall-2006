@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on thermodynamic properties of multi-site mineral solutions
   - homogeneous equilibria, and thermometry-narometry using pyroxenes.
-file: /ol-ocw-studio-app/courses/12-480-thermodynamics-for-geoscientists-fall-2006/925ab0fef768540876e560c181a41e02_lec6.pdf
+file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/925ab0fef768540876e560c181a41e02_lec6.pdf
 file_size: 278635
 file_type: application/pdf
 learning_resource_types:
